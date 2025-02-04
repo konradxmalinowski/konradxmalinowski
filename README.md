@@ -5,7 +5,6 @@
 💞️ I’m looking to collaborate on open-source projects and innovative web solutions.  
 📫 How to reach me:  
   - 🌍 [Portfolio Website](http://portfolio-website.ct8.pl)  
-  - 🐙 [GitHub](https://github.com/konradxmalinowski)  
   - 📸 [Instagram](https://www.instagram.com/konradxmalinowski)  
 
 😄 Pronouns: he/him  
