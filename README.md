@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Konrad Malinowski</h1>
 <h3 align="center">A passionate Frontend Developer from Poland</h3>
 
-
 ---
 
 ### 👨‍💻 About Me
@@ -10,13 +9,13 @@ I am a frontend developer with a strong passion for building responsive and user
 
 - 🔭 I’m currently working on enhancing my portfolio with new projects.
 - 🌱 I’m continuously learning and exploring new technologies.
-- 💬 Ask me about **React**, **TypeScript**, or **CSS/SASS**.
+- 💬 Ask me about **React**, **JavaScript**, or **CSS/SASS**.
 - 📫 How to reach me: [konradxmalinowski@gmail.com](mailto:konradxmalinowski@gmail.com)
 - ⚡ Fun fact: I have a keen eye for detail and a love for minimalist design.
 
 ---
 
-### 🚀 Languages and Tools I Use
+### 💻 Languages and Tools I Use
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -60,10 +59,9 @@ I am a frontend developer with a strong passion for building responsive and user
 
 Here are some of the projects I've worked on:
 
-- **[JobBoard](https://github.com/konradxmalinowski/jobboard)**: A web application for job listings and applications.
-- **[Portfolio](https://github.com/konradxmalinowski/portfolio)**: My personal portfolio showcasing my skills and projects.
+- **[JobBoard](https://github.com/konradxmalinowski/Job-Offer-Portal)**: A web application for job listings and applications.
 - **[Shop](https://github.com/konradxmalinowski/shop)**: An e-commerce platform with shopping cart functionality.
-- **[Exam](https://github.com/konradxmalinowski/exam)**: An online examination system for testing and assessments.
+- **[Exam](https://github.com/konradxmalinowski/exam-test-quiz)**: An online examination system for testing and assessments.
 
 Feel free to explore these repositories to see my work in action.
 
@@ -72,7 +70,7 @@ Feel free to explore these repositories to see my work in action.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=konradxmalinowski&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=00000000&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=konradxmalinowski&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=00000000" alt="Top Languages" />
 </p>
 
 ---
