@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Konrad Malinowski
 
-🎓 I'm a high school student from Zduńska Wola, Poland, with a strong passion for web development. I enjoy creating responsive and user-friendly websites, and I'm continually expanding my knowledge in modern web technologies.
+🎓 I'm a high school student from Poland, with a strong passion for web development. I enjoy creating responsive and user-friendly websites, and I'm continually expanding my knowledge in modern web technologies.
 
 ## 🚀 Technologies I Work With:
 
@@ -26,8 +26,8 @@
 
 ## 📫 How to Reach Me:
 
-- 📧 Email: [Your Email Address]
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/konrad-malinowski-894a36323/)
+- 📧 Email: [malinowski.konrad45@gmail.com]
+- 💼 LinkedIn: [Konrad Malinowski](https://www.linkedin.com/in/konrad-malinowski-894a36323/)
 - 🌐 Portfolio: [portfolio-website.ct8.pl](http://portfolio-website.ct8.pl)
 
 ## 🌱 Currently Learning:
@@ -47,6 +47,4 @@
 - I'm enthusiastic about learning new programming languages and frameworks.
 - I enjoy designing intuitive user interfaces.
 - I'm always looking for opportunities to apply my skills to real-world projects.
-
----
 
