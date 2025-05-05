@@ -10,7 +10,7 @@ I am a frontend developer with a strong passion for building responsive and user
 - 🔭 I’m currently working on enhancing my portfolio with new projects.
 - 🌱 I’m continuously learning and exploring new technologies.
 - 💬 Ask me about **React**, **JavaScript**, or **CSS/SASS**.
-- 📫 How to reach me: [konradxmalinowski@gmail.com](mailto:konradxmalinowski@gmail.com)
+- 📫 How to reach me: [malinowski.konrad45@gmail.com](mailto:malinowski.konrad45@gmail.com)
 - ⚡ Fun fact: I have a keen eye for detail and a love for minimalist design.
 
 ---
