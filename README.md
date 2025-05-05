@@ -1,50 +1,24 @@
-# 👋 Hi there! I'm Konrad Malinowski
-
-🎓 I'm a high school student from Poland, with a strong passion for web development. I enjoy creating responsive and user-friendly websites, and I'm continually expanding my knowledge in modern web technologies.
-
-## 🚀 Technologies I Work With:
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-## 🛠️ Projects I'm Proud Of:
-
-- [Job Board Portal](https://github.com/konradxmalinowski/Portal-z-ofertami-o-prace): A job listing portal developed using HTML and CSS, featuring a responsive design and user-friendly interface.
-
-- [Portfolio Website](https://github.com/konradxmalinowski/konradxmalinowski): My personal portfolio showcasing my projects and skills, built with modern web technologies.
-
-- [Online Shop](https://github.com/konradxmalinowski/Shop): An e-commerce website project demonstrating product listings and shopping cart functionality.
-
-- [Exam Test Quiz](https://github.com/konradxmalinowski/exam-test-quiz): An interactive quiz application designed for INF.03 certification preparation, utilizing JavaScript, jQuery, and React.
-
-## 📫 How to Reach Me:
-
-- 📧 Email: [malinowski.konrad45@gmail.com]
-- 💼 LinkedIn: [Konrad Malinowski](https://www.linkedin.com/in/konrad-malinowski-894a36323/)
-- 🌐 Portfolio: [portfolio-website.ct8.pl](http://portfolio-website.ct8.pl)
-
-## 🌱 Currently Learning:
-
-- Advanced features of React and TypeScript.
-- Backend development and database management with MySQL and SQL.
-- UI/UX design principles using Figma.
-
-## 🎯 Goals for the Near Future:
-
-- Build a full-stack web application integrating both frontend and backend technologies.
-- Contribute to open-source projects to gain collaborative development experience.
-- Enhance my understanding of responsive and accessible web design.
-
-## ⚡ Fun Facts About Me:
-
-- I'm enthusiastic about learning new programming languages and frameworks.
-- I enjoy designing intuitive user interfaces.
-- I'm always looking for opportunities to apply my skills to real-world projects.
-
+<h1>Hi 👋, I'm Konrad Malinowski</h1>
+<p>A passionate frontend developer</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="display: inline-block;"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://twitter.com/https://x.com/Konrad6580" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/konrad-malinowski-894a36323/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.facebook.com/https://www.facebook.com/konradxmalinowski/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/konradxmalinowski/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=konradxmalinowski&show_icons=true&locale=en" alt="konradxmalinowski" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=konradxmalinowski&" alt="konradxmalinowski" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=konradxmalinowski&show_icons=true&locale=en&layout=compact" alt="konradxmalinowski" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=konradxmalinowski" alt="konradxmalinowski" /></a></p>
