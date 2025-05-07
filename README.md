@@ -65,13 +65,7 @@ Here are some of the projects I've worked on:
 
 Feel free to explore these repositories to see my work in action.
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=konradxmalinowski&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=00000000" alt="Top Languages" />
-</p>
 
 ---
 
