@@ -14,7 +14,6 @@ I am a frontend developer with a strong passion for building responsive and user
 - ⚡ Fun fact: I have a keen eye for detail and a love for minimalist design.
 
 ---
-
 ### 💻 Languages and Tools I Use
 
 <p align="left">
@@ -55,7 +54,6 @@ I am a frontend developer with a strong passion for building responsive and user
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
   </a>
 </p>
-
 ---
 
 ### 📂 Projects
