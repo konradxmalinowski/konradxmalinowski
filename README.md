@@ -51,6 +51,7 @@ I am a frontend developer with a strong passion for building responsive and user
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
   </a>
 </p>
+
 ---
 
 ### 📂 Projects
