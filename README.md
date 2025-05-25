@@ -75,7 +75,7 @@ I am a frontend developer with a strong passion for building responsive and user
 ### 📂 Projects
 
 Here are some of the projects I've worked on:
-
+- **[DevsPortal](https://github.com/konradxmalinowski/DevsPortal)**: A portal created for developers.
 - **[JobBoard](https://github.com/konradxmalinowski/Job-Offer-Portal)**: A web application for job listings and applications.
 - **[Shop](https://github.com/konradxmalinowski/shop)**: An e-commerce platform with shopping cart functionality.
 - **[Exam](https://github.com/konradxmalinowski/exam-test-quiz)**: An online examination system for testing and assessments.
