@@ -92,13 +92,16 @@ Feel free to explore these repositories to see my work in action.
 
 ### 📊 GitHub Stats
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=konradxmalinowski" alt="konradxmalinowski" /></a> </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=konradxmalinowski&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=00000000" alt="Top Languages" />
- 
 </p>
 <p>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=konradxmalinowski&" alt="konradxmalinowski" />
 </p>
+
+
+
 
 ---
 
