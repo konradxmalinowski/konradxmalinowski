@@ -14,11 +14,6 @@ I am a frontend developer with a strong passion for building responsive and user
 - ⚡ Fun fact: I have a keen eye for detail and a love for minimalist design.
 
 ---
-### 💻 Languages and Tools I Use
-
-Oto propozycja uporządkowania sekcji "Languages and Tools I Use" w Twoim README według kategorii:
-
----
 
 ### 💻 Languages and Tools I Use
 
