@@ -62,7 +62,7 @@ I am a frontend developer with a strong passion for building responsive and user
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/>
 </a>
 
-**Other tools:** <br>
+**Other:** <br>
 <a href="https://git-scm.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </a>
