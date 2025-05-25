@@ -86,8 +86,12 @@ Feel free to explore these repositories to see my work in action.
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=konradxmalinowski&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=00000000" alt="Top Languages" />
+ 
+</p>
+<p>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=konradxmalinowski&" alt="konradxmalinowski" />
 </p>
 
 ---
@@ -108,3 +112,7 @@ Feel free to explore these repositories to see my work in action.
     <img src="https://img.shields.io/badge/Instagram-@konradxmalinowski-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+
+
+
