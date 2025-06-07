@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-I am a frontend developer with a strong passion for building responsive and user-friendly web applications. My expertise lies in crafting clean and efficient code using modern technologies. I enjoy tu[...]
+I am a frontend developer with a strong passion for building responsive and user-friendly web applications. My expertise lies in crafting clean and efficient code using modern technologies. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
 - 🔭 I’m currently working on enhancing my portfolio with new projects.
 - 🌱 I’m continuously learning and exploring new technologies.
@@ -105,8 +105,6 @@ Feel free to explore these repositories to see my work in action.
 <p>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=konradxmalinowski&" alt="konradxmalinowski" />
 </p>
-
-
 
 
 ---
