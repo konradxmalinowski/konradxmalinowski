@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me
 
-I am a frontend developer with a strong passion for building responsive and user-friendly web applications. My expertise lies in crafting clean and efficient code using modern technologies. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+I am a frontend developer with a strong passion for building responsive and user-friendly web applications. My expertise lies in crafting clean and efficient code using modern technologies. I enjoy tu[...]
 
 - 🔭 I’m currently working on enhancing my portfolio with new projects.
 - 🌱 I’m continuously learning and exploring new technologies.
@@ -50,6 +50,9 @@ I am a frontend developer with a strong passion for building responsive and user
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 </a>
+<a href="https://www.selenium.dev/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
+</a>
 
 **Database:** <br>
 <a href="https://www.mysql.com" target="_blank">
@@ -57,6 +60,12 @@ I am a frontend developer with a strong passion for building responsive and user
 </a>
 <a href="https://www.w3schools.com/sql/" target="_blank">
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql" width="40" height="40"/>
+</a>
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+</a>
+<a href="https://www.sqlite.org/index.html" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite3" width="40" height="40"/>
 </a>
 
 **Other:** <br>
@@ -118,7 +127,3 @@ Feel free to explore these repositories to see my work in action.
     <img src="https://img.shields.io/badge/Instagram-@konradxmalinowski-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
-
-
-
