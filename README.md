@@ -97,7 +97,7 @@ Feel free to explore these repositories to see my work in action.
 <br>
 
 ### 📊 GitHub Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l4yoos&label=Profile%20views&color=0e75b6&style=flat" alt="l4yoos" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=konradxmalinowski&label=Profile%20views&color=0e75b6&style=flat" alt="konradxmalinowski" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=konradxmalinowski" alt="konradxmalinowski" /></a> </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=konradxmalinowski&show_icons=true&locale=en&layout=compact&theme=github_dark&bg_color=00000000" alt="Top Languages" />
