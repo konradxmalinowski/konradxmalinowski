@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Konrad Malinowski</h1>
 <h3 align="center">A passionate Frontend Developer from Poland</h3>
 
----
+<br>
 
 ### 👨‍💻 About Me
 
@@ -13,7 +13,7 @@ I am a frontend developer with a strong passion for building responsive and user
 - 📫 How to reach me: [malinowski.konrad45@gmail.com](mailto:malinowski.konrad45@gmail.com)
 - ⚡ Fun fact: I have a keen eye for detail and a love for minimalist design.
 
----
+<br>
 
 ### 💻 Languages and Tools I Use
 
@@ -82,7 +82,7 @@ I am a frontend developer with a strong passion for building responsive and user
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/>
 </a>
 
----
+<br>
 
 ### 📂 Projects
 
@@ -94,7 +94,7 @@ Here are some of the projects I've worked on:
 
 Feel free to explore these repositories to see my work in action.
 
----
+<br>
 
 ### 📊 GitHub Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=l4yoos&label=Profile%20views&color=0e75b6&style=flat" alt="l4yoos" /> </p>
@@ -107,7 +107,7 @@ Feel free to explore these repositories to see my work in action.
 </p>
 
 
----
+<br>
 
 ### 🌐 Connect with Me
 
