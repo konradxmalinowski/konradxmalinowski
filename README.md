@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Konrad Malinowski</h1>
-<h3 align="center">A passionate Frontend Developer from Poland</h3>
-
-<br>
-
 ### 👨‍💻 About Me
 
 I am a frontend developer with a strong passion for building responsive and user-friendly web applications. My expertise lies in crafting clean and efficient code using modern technologies. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
