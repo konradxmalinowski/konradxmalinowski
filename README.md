@@ -81,8 +81,8 @@ I am a frontend developer with a strong passion for building responsive and user
 Here are some of the projects I've worked on:
 - **[Shop](https://github.com/konradxmalinowski/shop)**: An e-commerce platform with shopping cart functionality.
 - **[DevsPortal](https://github.com/konradxmalinowski/DevsPortal)**: A portal created for developers.
-- **[Exam](https://github.com/konradxmalinowski/exam-test-quiz)**: An online examination system for testing and assessments.
-- **[JobBoard](https://github.com/konradxmalinowski/Job-Offer-Portal)**: A web application for job listings and applications.
+- **[News-API](https://github.com/konradxmalinowski/News-API-React)**: A plaform which allows you check latest blogs on different themes. 
+- **[To-do-app](https://github.com/konradxmalinowski/to-do-app)**: A web application for managing daily tasks, allowing users to add, edit, complete, and delete to-do items with a clean and responsive user interface.
 
 Feel free to explore these repositories to see my work in action.
 
@@ -100,15 +100,14 @@ Feel free to explore these repositories to see my work in action.
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://x.com/Konrad6580" target="_blank">
-    <img src="https://img.shields.io/badge/X-@Konrad6580-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
   <a href="https://www.linkedin.com/in/konrad-malinowski-894a36323/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Konrad%20Malinowski-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <br>
   <a href="https://www.facebook.com/konradxmalinowski/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-Konrad%20Malinowski-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
+  <br>
   <a href="https://www.instagram.com/konradxmalinowski/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@konradxmalinowski-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
