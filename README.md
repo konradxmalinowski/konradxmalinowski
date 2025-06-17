@@ -35,16 +35,23 @@ I am a frontend developer with a strong passion for building responsive and user
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
 
+
 **Backend:** <br>
 <a href="https://www.python.org/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</a>
 <a href="https://www.selenium.dev/" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/>
 </a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</a>
+
+
+
 
 **Database:** <br>
 <a href="https://www.mysql.com" target="_blank">
