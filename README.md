@@ -107,7 +107,7 @@ Feel free to explore these repositories to see my work in action.
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/konrad-malinowski-894a36323/" target="_blank">
+  <a href="https://www.linkedin.com/in/konradxmalinowski" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Konrad%20Malinowski-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <br>
