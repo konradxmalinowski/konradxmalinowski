@@ -36,5 +36,10 @@ I am a web developer with a strong passion for building responsive and user-frie
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=konradxmalinowski&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&hide_border=false&order=2&theme=github_dark&bg_color=00000000" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konradxmalinowski&theme=tokyonight&hide_border=false&include_all_commits=false&langs_count=8&hide_border=false&layout=compact" height="200" alt="languages graph"  />
 </p>
+
+<br>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
