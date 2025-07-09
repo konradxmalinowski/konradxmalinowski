@@ -3,7 +3,7 @@
 I am a web developer with a strong passion for building responsive and user-friendly web applications. My expertise lies in crafting clean and efficient code using modern technologies. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
 
 - 🏫 I’m a high school student specializing in programming
-- 💻 Currently learning React, Java and PHP
+- 💻 Currently learning React, Java, PHP & Node.js
 - 🌱 Continuously learning and exploring advantages of implementing AI in work and life.
 - 🏐 I love playing volleyball
 - ⚡ Fun fact: I have a keen eye for detail and a love for minimalist design
