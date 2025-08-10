@@ -26,6 +26,10 @@ I am a web developer with a strong passion for building responsive and user-frie
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
+ <img width="12" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="angular logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring boot logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
