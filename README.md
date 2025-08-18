@@ -52,6 +52,8 @@ I am a web developer with a strong passion for building responsive and user-frie
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
+ <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
 ## Social media
