@@ -78,6 +78,7 @@ I am a web developer with a strong passion for building responsive and user-frie
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
 </div>
 
+<!--
 <br>
 
 <p align="left">
@@ -85,3 +86,4 @@ I am a web developer with a strong passion for building responsive and user-frie
 
 </p>
 
+-->
