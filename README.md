@@ -37,8 +37,6 @@ I am a web developer with a strong passion for building responsive and user-frie
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
 ### Backend & Database
@@ -69,6 +67,8 @@ I am a web developer with a strong passion for building responsive and user-frie
 
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
