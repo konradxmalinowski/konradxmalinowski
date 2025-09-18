@@ -79,7 +79,10 @@ I am a web developer with a strong passion for building responsive and user-frie
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
    <img width="12" />
+   <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
+     <img width="12" />
  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+
 </div>
 
 <!--
