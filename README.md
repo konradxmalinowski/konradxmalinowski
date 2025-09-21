@@ -42,15 +42,18 @@ I am a web developer with a strong passion for building responsive and user-frie
 ### Backend & Database
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+ <img width="12" />
+ <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
@@ -61,6 +64,8 @@ I am a web developer with a strong passion for building responsive and user-frie
   <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  
+  
 </div>
 
 ### DevOps & Tools
