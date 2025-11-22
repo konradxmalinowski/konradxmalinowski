@@ -1,20 +1,12 @@
 ## About Me
 
-I am a web developer with a strong passion for building responsive and user-friendly web applications. My expertise lies in crafting clean and efficient code using modern technologies. I enjoy turning complex problems into simple, beautiful, and intuitive designs.
+I’m a high school student who’s already developing as a **full-stack developer** out of pure passion. Since 2022, I’ve been learning through hands-on experience — building my own projects, experimenting with new ideas, and constantly improving my skills.
 
-- 🏫 I’m a high school student specializing in programming
-- 💻 Currently learning <b>Angular & Spring Boot</b>
-- 🌱 Continuously learning and exploring advantages of <b>implementing AI</b> in work and life.
-- 🏐 I love playing volleyball
-- ⚡ Fun fact: I have a keen eye for detail and a love for **minimalist design**
+Being **self-taught** has taught me courage to face challenges and flexibility in working with new technologies. I focus on modern, functional solutions that truly meet user needs.
 
-## Social media
+I use **AI** as a tool to speed up workflows, enhance creativity, and open the door to more innovative solutions.
 
-<div align="left">
- <a target="_blank" href="mailto:malinowski.konrad45@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
-<a target="_blank" href="https://www.linkedin.com/in/konradxmalinowski">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
- <a target="_blank"  href="https://www.facebook.com/konradxmalinowski/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  /></a>
-</div>
+📩 Contact: malinowski.konrad45@gmail.com
 
 
 ## Tech Stack
