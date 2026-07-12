@@ -1,145 +1,308 @@
-<h1 align="center">Konrad Malinowski</h1>
-<p align="center">
-  <strong>AI Engineer · Full-Stack Developer</strong><br>
-  Zduńska Wola, Poland
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/konradxmalinowski"><img src="https://img.shields.io/badge/LinkedIn-konradxmalinowski-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:malinowski.konrad45@gmail.com"><img src="https://img.shields.io/badge/Email-malinowski.konrad45%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&repeat=true&width=700&lines=AI+Solution+Architect+%7C+Full-Stack+Developer" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/konradxmalinowski)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:malinowski.konrad45@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/konradxmalinowski)
+
+</div>
 
 ---
 
-## About
+## About Me
 
-Full-Stack Developer with commercial experience building enterprise microservices (Java · Spring Boot · Angular) at Aibron, and a growing focus on AI engineering — RAG pipelines, vector databases, MCP-based agent systems, and AI workflow automation with n8n and LangChain. I approach technology pragmatically: the right tool for the problem, not loyalty to a single stack.
+**Full-Stack Developer** with commercial experience building enterprise microservices (**Java · Spring Boot · Angular**) at Aibron, and a growing focus on **AI engineering** — RAG pipelines, vector databases, MCP-based agent systems, and AI workflow automation with n8n and LangChain.
+
+### What Drives Me
+
+I approach technology pragmatically: the right tool for the problem, not loyalty to a single stack. Whether it's designing decoupled microservices or wiring up intelligent agent workflows, I believe good engineering should make systems simpler, faster, and easier to trust.
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### Educomfee
+**Enterprise Microservices Platform**
+
+Core architecture of an enterprise-grade application built on a scalable, modular microservices pattern at Aibron.
+
+**Highlights:**
+- High-performance Spring Boot backend with async messaging via RabbitMQ
+- Modular Angular frontend integrated with RESTful APIs
+- Automated GitLab CI/CD, deployment via Docker, Nginx & Proxmox
+- Quality assured with k6 load tests and Playwright E2E tests
+
+**Tech Stack:** Java, Spring Boot, Angular, RabbitMQ, PostgreSQL, MySQL, Docker
+
+</td>
+<td width="50%">
+
+### Alumni Map
+**Interactive Graduate Ecosystem**
+
+Full ownership of the technical architecture and end-to-end development of an interactive Alumni Map for Zespół Szkół Elektronicznych.
+
+**Highlights:**
+- Real-time graduate registration, geolocation & live map rendering
+- 2FA, admin moderation panel and GDPR compliance built from scratch
+- Containerized deployment with Docker and Nginx
+
+**Tech Stack:** Node.js, React, TypeScript, TailwindCSS, PostgreSQL, Redis, Prisma ORM
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Tech Stack
 
-**Backend & Enterprise**
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+### Backend & Enterprise
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot" />
+<br>Spring Boot
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
+<br>RabbitMQ
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br>FastAPI
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+<br>Flask
+</td>
+</tr>
+</table>
 
-**Frontend**
+### Frontend
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+<br>Angular
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+<br>Redux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+</tr>
+</table>
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+### AI & Automation
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langchain-color.png" width="48" height="48" alt="LangChain" />
+<br>LangChain
+</td>
+<td align="center" width="96">
+<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langgraph-color.png" width="48" height="48" alt="LangGraph" />
+<br>LangGraph
+</td>
+<td align="center" width="96">
+<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/llamaindex-color.png" width="48" height="48" alt="LlamaIndex" />
+<br>LlamaIndex
+</td>
+<td align="center" width="96">
+<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/n8n-color.png" width="48" height="48" alt="n8n" />
+<br>n8n
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/-FF6F00?style=flat-square" width="48" height="48" alt="ChromaDB" />
+<br>ChromaDB
+</td>
+<td align="center" width="96">
+<img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/mcp.png" width="48" height="48" alt="Model Context Protocol" />
+<br>MCP
+</td>
+</tr>
+</table>
 
-**AI & Automation**
+### Databases
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+<br>Prisma
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=elasticsearch" width="48" height="48" alt="Elasticsearch" />
+<br>Elasticsearch
+</td>
+</tr>
+</table>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6834B3?style=for-the-badge&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white)
+### DevOps & Testing
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+<br>Nginx
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab CI/CD" />
+<br>GitLab CI/CD
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/-2EAD33?style=flat-square&logo=playwright&logoColor=white" width="48" height="48" alt="Playwright" />
+<br>Playwright
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/-7D64FF?style=flat-square&logo=k6&logoColor=white" width="48" height="48" alt="k6" />
+<br>k6
+</td>
+</tr>
+</table>
 
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**DevOps & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab%20CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-
-**Testing**
-
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![k6](https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white)
+</div>
 
 ---
 
-## Experience
+## GitHub Analytics
 
-**Full-Stack Developer & Systems Architect — Aibron** · *Jan 2026 – Present*
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=konradxmalinowski&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</div>
 
-- Engineered the core architecture of Educomfee: an enterprise-grade application built on a scalable, modular microservices pattern
-- Developed a high-performance backend using Java and Spring Boot with asynchronous messaging via RabbitMQ for decoupled service communication
-- Built a responsive, modular Angular frontend integrated with RESTful APIs
-- Designed and optimized relational database schemas in PostgreSQL and MySQL
-- Established automated CI/CD pipelines in GitLab; managed deployment via Docker, Nginx, and Proxmox
-- Maintained quality through load testing (k6) and end-to-end testing (Playwright); applied SOLID, DRY, and Clean Code principles throughout
-
-**Intern Full-Stack Developer — Aibron** · *Aug 2025 – Jan 2026*
-
-- Acquired hands-on enterprise Java and OOP experience within a commercial project lifecycle
-- Developed foundational Spring Boot backend and Angular frontend features
-- Established core workflows: Git version control, code reviews, API design, structured debugging
-
-**Lead Full-Stack Engineer — Zespół Szkół Elektronicznych w Zduńskiej Woli** · *Jun 2026 – Present*
-
-- Took full ownership of the technical architecture and end-to-end development of an interactive Alumni Map ecosystem
-- Built a secure full-stack application enabling real-time graduate registration, geolocation, and live map rendering
-- Implemented 2FA, an admin moderation panel, and GDPR data compliance from scratch
-- Orchestrated containerized deployment with Docker, Nginx, and Git
-- Stack: Node.js · React · TypeScript · TailwindCSS · PostgreSQL · Redis · Prisma ORM
-
-**Webmaster & CMS Developer — Zespół Szkół Elektronicznych w Zduńskiej Woli** · *May 2023 – May 2026*
-
-- Executed the complete legacy migration, redesign, and optimization of the institution's official web infrastructure
-- Re-architected content layouts and customized WordPress core for high-performance, responsive delivery
-- Configured access control, admin workflows, and server-side caching
-- Stack: WordPress · PHP · MySQL · JavaScript · HTML · CSS
+<div align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konradxmalinowski&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=konradxmalinowski&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ---
 
-## Education
+## Current Focus & Interests
 
-**Zespół Szkół Elektronicznych w Zduńskiej Woli** · *Sep 2023 – Apr 2028*  
-Technical Degree — Computer Science & Software Engineering
-
-Dual-track national certification programme:
-
-- **INF.03** — Web development, client-side scripting, relational database management (JavaScript, PHP, SQL, HTML5, CSS3)
-- **INF.04** — Object-oriented software engineering, multi-platform application development, QA testing (Java, Python, C#, Angular, React, Node.js)
-
-Activities: Advanced track in Mathematics, IT, and English · Participant in regional IT Days and software hackathons
-
----
-
-## Certifications
-
-**Anthropic**
-
-| Certification | Credential |
-|---|---|
-| [Model Context Protocol: Advanced Topics](https://verify.skilljar.com/c/6sqecthgmtqy) | `6sqecthgmtqy` |
-| [Introduction to Model Context Protocol](https://verify.skilljar.com/c/afa3gaxrq62w) | `afa3gaxrq62w` |
-| [Claude Code 101](https://verify.skilljar.com/c/wt6x3xvvv3tn) | `wt6x3xvvv3tn` |
-| [Introduction to Subagents](https://verify.skilljar.com/c/mxdp46iw6bwa) | `mxdp46iw6bwa` |
-| [AI Fluency: Framework & Foundations](https://verify.skilljar.com/c/dnh8s8uwxheo) | `dnh8s8uwxheo` |
-
-**Google**
-
-| Certification | Credential |
-|---|---|
-| [Vector Search and Embeddings](https://www.skills.google/public_profiles/bbe3b14c-9483-47f5-9613-97b28c4ce258/badges/24908336) | `24908336` |
-| [Agent Fundamentals](https://www.skills.google/public_profiles/bbe3b14c-9483-47f5-9613-97b28c4ce258/badges/24706646) | `24706646` |
-| [Generative AI Fundamentals](https://www.skills.google/public_profiles/bbe3b14c-9483-47f5-9613-97b28c4ce258/badges/24702650) | `24702650` |
-
-All issued June 2026.
+```javascript
+const konrad = {
+    currentStatus: "Full-Stack Developer & Systems Architect @ Aibron",
+    focusAreas: ["Enterprise Microservices", "AI Engineering", "Process Automation"],
+    learning: ["RAG Pipelines", "MCP Agent Systems", "Vector Databases"],
+    certifications: ["Anthropic — MCP Advanced Topics", "Claude Code 101", "Google — Vector Search & Embeddings"],
+    achievement: "TOP 3 Finalist — APPetyt na studiowanie w Łodzi (hackathon, Nov 2025)",
+    futureGoals: ["Build production-grade AI agent systems", "Master system architecture at scale"]
+};
+```
 
 ---
 
-## Recognition
+## Beyond Code
 
-**Finalist — TOP 3 · APPetyt na studiowanie w Łodzi** · *Nov 2025*  
-*Universytet Łódzki — Łódź IT Days, Faculty of Mathematics and Computer Science*
+<div align="center">
 
-Top 3 out of 13 competing teams in a software development hackathon. Built and pitched a cross-platform mobile application (React Native · Expo · TypeScript · Reanimated) promoting academic opportunities in Łódź. Defended technical architecture before the university evaluation committee.
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVycjh1ejFydnBtcHBraWZiOXNxazhlN3kyOTRsMXc2YjV5NDFkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100" /><br>
+<b>IT & Programming</b><br>
+Learning & building
+</td>
+<td align="center" width="33%">
+<!-- Podmień GIF na siatkówkę -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" /><br>
+<b>Volleyball</b><br>
+On the court
+</td>
+<td align="center" width="33%">
+<!-- Podmień GIF na koszykówkę -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" /><br>
+<b>Basketball</b><br>
+Shooting hoops
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## Contact
+## Let's Connect
 
-- **Email:** malinowski.konrad45@gmail.com
-- **LinkedIn:** [linkedin.com/in/konradxmalinowski](https://linkedin.com/in/konradxmalinowski)
-- **GitHub:** [github.com/konradxmalinowski](https://github.com/konradxmalinowski)
+<div align="center">
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/konradxmalinowski)
+[![Email](https://img.shields.io/badge/Email-Write_to_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malinowski.konrad45@gmail.com)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=konradxmalinowski&label=Profile%20Views&color=3B82F6&style=flat-square" alt="Profile Views" />
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
+</div>
