@@ -12,7 +12,7 @@
 
 ## About Me
 
-**Full-Stack Developer** with commercial experience building enterprise microservices (**Java · Spring Boot · Angular**) at Aibron, and a growing focus on **AI engineering** — RAG pipelines, vector databases, MCP-based agent systems, and AI workflow automation with n8n and LangChain.
+**Full-Stack Developer** with commercial experience building enterprise microservices (**Java · Spring Boot · Angular**) at Aibron, and a growing focus on **AI engineering** - RAG pipelines, vector databases, MCP-based agent systems, and AI workflow automation with n8n and LangChain.
 
 ### What Drives Me
 
