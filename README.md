@@ -261,29 +261,30 @@ const konrad = {
 ## Beyond Code
 
 <div align="center">
-
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="25%">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVycjh1ejFydnBtcHBraWZiOXNxazhlN3kyOTRsMXc2YjV5NDFkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100" /><br>
 <b>IT & Programming</b><br>
 Learning & building
 </td>
-<td align="center" width="33%">
-<!-- Podmień GIF na siatkówkę -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" /><br>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/XdXds38x6m7iVaw7Zv/giphy.gif" width="100" /><br>
 <b>Volleyball</b><br>
 On the court
 </td>
-<td align="center" width="33%">
-<!-- Podmień GIF na koszykówkę -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" /><br>
+<td align="center" width="25%">
+<img src="https://media.giphy.com/media/HevSXCLMyyXaPU1OB6/giphy.gif" width="100" /><br>
 <b>Basketball</b><br>
 Shooting hoops
 </td>
+<td align="center" width="25%">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmJ0cnIxMjRkaTJ1NmF0NjgxYjFveGYwdnN1bmF5MWtkMHRuNGt0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6ZsYzuLyRfSGX4f6/giphy.gif" width="100" /><br>
+<b>Gym</b><br>
+Lifting heavy
+</td>
 </tr>
 </table>
-
 </div>
 
 ---
