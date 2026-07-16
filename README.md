@@ -12,7 +12,7 @@
 
 ## About Me
 
-**Full-Stack Developer** with commercial experience building enterprise microservices (**Java · Spring Boot · Angular**) at Aibron, and a growing focus on **AI engineering** - RAG pipelines, vector databases, MCP-based agent systems, and AI workflow automation with n8n and LangChain.
+**Full-Stack Developer** with commercial experience building enterprise microservices (**Java · Spring Boot · Angular**) at Aibron, and a growing focus on **AI engineering** — RAG pipelines, vector databases, MCP-based agent systems, and AI workflow automation with n8n and LangChain.
 
 ### What Drives Me
 
@@ -29,7 +29,7 @@ I approach technology pragmatically: the right tool for the problem, not loyalty
 ### Educomfee
 **Enterprise Microservices Platform**
 
-Core architecture of an enterprise-grade application built on a scalable, modular microservices pattern at Aibron.
+Enterprise-grade application co-created at **Aibron**, built on a scalable, modular microservices pattern.
 
 **Highlights:**
 - High-performance Spring Boot backend with async messaging via RabbitMQ
@@ -42,17 +42,18 @@ Core architecture of an enterprise-grade application built on a scalable, modula
 </td>
 <td width="50%">
 
-### Alumni Map
-**Interactive Graduate Ecosystem**
+### [LLM Security Scanner](https://github.com/konradxmalinowski/llm-security-scanner)
+**AI Red Teaming CLI Tool**
 
-Full ownership of the technical architecture and end-to-end development of an interactive Alumni Map for Zespół Szkół Elektronicznych.
+A Python CLI that tests LLM-based applications against the full OWASP Top 10 for LLMs 2025 framework - runnable locally or from CI/CD.
 
 **Highlights:**
-- Real-time graduate registration, geolocation & live map rendering
-- 2FA, admin moderation panel and GDPR compliance built from scratch
-- Containerized deployment with Docker and Nginx
+- 51+ automated attack payloads across LLM01–LLM10
+- Local Ollama model as LLM-as-a-judge (offline-first, no cloud APIs)
+- SARIF/HTML/JSON/MD reports, baseline tracking & trend dashboard
+- Ready-made GitHub Actions & GitLab CI templates, published to PyPI & GHCR
 
-**Tech Stack:** Node.js, React, TypeScript, TailwindCSS, PostgreSQL, Redis, Prisma ORM
+**Tech Stack:** Python, httpx, Pydantic v2, Ollama, Rich, Docker
 
 </td>
 </tr>
@@ -233,7 +234,7 @@ Full ownership of the technical architecture and end-to-end development of an in
 ## GitHub Analytics
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=konradxmalinowski&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=konradxmalinowski&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
 </div>
 
 <div align="center">
@@ -261,6 +262,7 @@ const konrad = {
 ## Beyond Code
 
 <div align="center">
+
 <table>
 <tr>
 <td align="center" width="25%">
@@ -285,6 +287,7 @@ Lifting heavy
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
