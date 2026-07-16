@@ -96,6 +96,10 @@ A Python CLI that tests LLM-based applications against the full OWASP Top 10 for
 <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
 <br>Flask
 </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+<br>Django
+</td>
 </tr>
 </table>
 
