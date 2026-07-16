@@ -12,7 +12,7 @@
 
 ## About Me
 
-**Full-Stack Developer** with commercial experience building enterprise microservices (**Java · Spring Boot · Angular**) at Aibron, and a growing focus on **AI engineering** — RAG pipelines, vector databases, MCP-based agent systems, and AI workflow automation with n8n and LangChain.
+**Full-Stack Developer** with commercial experience building enterprise microservices (**Java · Spring Boot · Angular**) at Aibron, and a growing focus on **AI engineering** - RAG pipelines, vector databases, MCP-based agent systems, and AI workflow automation with n8n and LangChain.
 
 ### What Drives Me
 
@@ -250,8 +250,8 @@ const konrad = {
     currentStatus: "Full-Stack Developer & Systems Architect @ Aibron",
     focusAreas: ["Enterprise Microservices", "AI Engineering", "Process Automation"],
     learning: ["RAG Pipelines", "MCP Agent Systems", "Vector Databases"],
-    certifications: ["Anthropic — MCP Advanced Topics", "Claude Code 101", "Google — Vector Search & Embeddings"],
-    achievement: "TOP 3 Finalist — APPetyt na studiowanie w Łodzi (hackathon, Nov 2025)",
+    certifications: ["Anthropic - MCP Advanced Topics", "Claude Code 101", "Google - Vector Search & Embeddings"],
+    achievement: "TOP 3 Finalist - APPetyt na studiowanie w Łodzi (hackathon, Nov 2025)",
     futureGoals: ["Build production-grade AI agent systems", "Master system architecture at scale"]
 };
 ```
