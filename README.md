@@ -237,12 +237,12 @@ A Python CLI that tests LLM-based applications against the full OWASP Top 10 for
 
 ## GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=konradxmalinowski&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&rank_icon=github" alt="GitHub Stats" />
-</div>
+</div> -->
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konradxmalinowski&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konradxmalinowski&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" /> -->
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=konradxmalinowski&custom_title=Contribution%20Graph&bg_color=0D1117&color=3B82F6&line=3B82F6&point=C9D1D9&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
